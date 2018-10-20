@@ -25,5 +25,28 @@ public class MainClass {
 	    
 	    System.out.println("Known capital cities: " + capitals.size());
 
+//		Set<String> persons = hz.getSet("persons");
+//		persons.addAll(employees.values());
+//		persons.add("tom");
+//		persons.add("john");
+//		persons.add("jobin");
+//
+//
+//		List<String> countries = hz.getList("persons");
+//		persons.addAll(employees.keySet());
+//		persons.add("tom");
+//		persons.add("john");
+//		persons.add("tom"); // duplicate entry
+//		BlockingQueue<String> arrivals = hz.getQueue("arrivals");
+//
+//		while (true) {
+//			String arrival = arrivals.take();
+//
+//			System.err.println(
+//					"New arrival from: " + arrival);
+//		}
+
+
+
 	}
 }
